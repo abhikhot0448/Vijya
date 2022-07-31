@@ -1,0 +1,23 @@
+{
+  "name": "vijya",
+  "version": "1.0.0",
+  "description": "it's abhi package",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhikhot0448/Vijya.git"
+  },
+  "author": "abhi khot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhikhot0448/Vijya/issues"
+  },
+  "homepage": "https://github.com/abhikhot0448/Vijya#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
